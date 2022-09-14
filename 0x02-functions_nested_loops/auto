@@ -8,3 +8,4 @@ read myCommit
 
 git commit -m "$myCommit"
 
+git push
